@@ -1,8 +1,12 @@
 ;------------------------------------------------------------------------------
 ; Changes by CHRISTIAN
+; Original by biancolo.com found here http://www.autohotkey.com/download/OtherDownloads.htm
+;
+; July 8 2011 - Created Git repo
+;             - Added misspellings from
 ;
 ; April 2010	- Removed the Win+H functionality. Id rather added the correct spellings manually.
-; 		- Added #NoTrayIcon
+;             - Added #NoTrayIcon
 ;
 ; CHANGELOG:
 ; 
@@ -5249,7 +5253,64 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::november::November
 ::december::December
 
+;-------------------------------------------------------------------------------
+; New misspellings from https://gist.github.com/876629
+;-------------------------------------------------------------------------------
+
+::ansewr::answer
+::at he::at the
+::avialable::available
+::aweosme::awesome
+::bceause::because
+::calilng::calling
+::cant::can't
+::clikc::click
+::closeing::closing
+::coulnd't::couldn't
+::coulndt::couldn't
+::cutre::cuter
+::db::dB
+::dbfs::dBFS
+::dbu::dBu
+::differnet::different
+::enuogh::enough
+::extrmely::extremely
+::havent::haven't
+::hcange::change
+::htan::than
+::htme::them
+::hz::Hz
+::i::I
+::imaginig::imagining
+::ipmedance::impedance
+::ive::I've
+::khz::kHz
+::mhz::MHz
+::nad::and
+::pcb::PCB
+::poewr::power
+::poictures::pictures
+::probalby::probably
+::realisitc::realistic
+::remmeber::remember
+::shold::should
+::sohuld::should
+::t othe::to the
+::theyre::they're
+::tht::that
+::thuogh::though
+::tihnk::think
+::tohught::thought
+::usb::USB
+::werent::weren't
+::whats::what's
+::whne::when
+::wont::won't
+::writtten::written
+::youll::you'll
+::youre::you're
 
 ;-------------------------------------------------------------------------------
 ; Anything below this point was added to the script by the user via the Win+H hotkey.
 ;-------------------------------------------------------------------------------
+
