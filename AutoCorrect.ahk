@@ -5280,7 +5280,7 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::htan::than
 ::htme::them
 ::hz::Hz
-::i::I
+; ::i::I ;Breaks insertion key (i) in Vim
 ::imaginig::imagining
 ::ipmedance::impedance
 ::ive::I've
