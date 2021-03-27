@@ -1,6 +1,8 @@
 ;------------------------------------------------------------------------------
-; Changes by CHRISTIAN
+; Changes by CHRISTIAN and ALEX
 ; Original by biancolo.com found here http://www.autohotkey.com/download/OtherDownloads.htm
+;
+; March 27 2021 - Fixed symbols not displaying correctly
 ;
 ; July 8 2011 - Created Git repo
 ;             - Added misspellings from
